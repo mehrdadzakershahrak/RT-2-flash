@@ -218,7 +218,7 @@ class Attention(nn.Module):
     # ... existing __init__ method ...
 
     def generate_cache_key(self, x):
-        # Example: generate a cache key based on the input 'x'
+        # Example: generate a cache key based on the input 'x' 
         return hash(tuple(x.flatten().tolist()))
 
     def forward(self, x, context=None, mask=None, attn_mask=None, rel_pos=None, rotary_pos_emb=None, prev_attn=None, mem=None):
