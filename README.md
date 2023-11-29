@@ -1,7 +1,7 @@
 [![Multi-Modality](agorabanner.png)](https://discord.gg/qUtxnK2NMf)
 
 
-# Robotic Transformer 2 (RT-2): The Vision-Language-Action Model
+# Robotic Transformer 2 (RT-2): The Vision-Language-Action Model Meets Hardware abstraction Layer
 ![rt gif](rt.gif)
 
 <div align="center">
